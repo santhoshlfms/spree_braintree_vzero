@@ -10,5 +10,7 @@ gem 'pg'
 gem 'mysql2'
 gem 'webmock', '>= 2.3.1'
 gem 'rails-controller-testing'
+gem 'spree_braintree_vzero', '~> 3.5'
+
 
 gemspec
